@@ -1,0 +1,7 @@
+[submodule "external/sdl"]
+	path = external/sdl
+	url = https://github.com/libsdl-org/SDL.git
+	branch = release-2.28.x
+[submodule "external/freetype"]
+	path = external/freetype
+	url = https://github.com/libsdl-org/freetype.git

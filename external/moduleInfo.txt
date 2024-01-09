@@ -1,0 +1,2 @@
+# git submodule add --branch release-2.28.x https://github.com/libsdl-org/SDL.git sdl
+# git submodule add https://github.com/libsdl-org/freetype.git
