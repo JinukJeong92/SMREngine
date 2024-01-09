@@ -399,7 +399,7 @@ namespace Spartan
     void Window::CreateAndShowSplashScreen()
     {
         // lod splash screen image
-        SDL_Surface* image = SDL_LoadBMP("..\\data\\textures\\MND.bmp");
+        SDL_Surface* image = SDL_LoadBMP("../data/textures/MND.bmp");
         SP_ASSERT_MSG(image != nullptr, "Failed to load splash screen image");
 
         // compute window position
