@@ -27,7 +27,6 @@
 #define IMGUI_DEFINE_MATH_OPERATORS
 #include <math.h>
 #include <vector>
-#include <float.h>
 #include <array>
 #include "GraphEditor.h"
 
