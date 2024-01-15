@@ -1,3 +1,5 @@
 # git submodule add --branch release-2.28.x https://github.com/libsdl-org/SDL.git sdl
 # git submodule add https://github.com/libsdl-org/freetype.git
 # git submodule add https://github.com/JinukJeong92/bullet3_src.git bullet3
+# git submodule add https://github.com/assimp/assimp.git assimp
+
